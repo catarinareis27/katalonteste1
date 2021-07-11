@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-CucumberKW.runFeatureFile('include/features/CheckLandingPage.feature')
+CucumberKW.runFeatureFile('Include/features/CheckLandingPage.feature')
 
-CucumberKW.runFeatureFile('include/features/Login.feature')
+CucumberKW.runFeatureFile('Include/features/Login.feature')
 
-CucumberKW.runFeatureFile('include/features/MakeAppointment.feature')
+CucumberKW.runFeatureFile('Include/features/MakeAppointment.feature')
 
